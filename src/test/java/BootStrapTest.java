@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by dcruz on 9/2/14.
+ * Simple unit test that serves a placeholder and sample.
  */
 public class BootStrapTest {
     private BootStrap bootStrap;

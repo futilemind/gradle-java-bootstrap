@@ -1,5 +1,5 @@
 /**
- * Created by dcruz on 9/2/14.
+ * Simple java class example to serve as a placeholder.
  */
 public class BootStrap {
     private final String name;
