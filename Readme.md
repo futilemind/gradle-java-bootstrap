@@ -4,17 +4,17 @@ Useful when you need a quick working setup to test something out or as a project
 Java 1.7 sourceCompatibility and targetCompatibility
 Gradle wrapper 1.12
 
-Plugins:
-- jacoco
-- java
-- eclipse
-- idea
+# Plugins:
+* jacoco
+* java
+* eclipse
+* idea
 
-Testing:
-- Mockito 1.9.0
-- Junit 4+ 
+# Testing:
+* Mockito 1.9.0
+* Junit 4+ 
 
-Build:
+# Build:
 ./gradlew clean build
 
 
